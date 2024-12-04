@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ElTee123
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on any project that might require front end development services
+  
 - 📫 reach me on watsapp @ +234 901 771 8512
 
 <!---
